@@ -2,7 +2,7 @@
 # and calculates the area
 from math import pi
 
-radius = int(input('Input the radius of the circle:  '))
+radius = float(input('Input the radius of the circle:  '))
 
 area = pi * radius**2
 
